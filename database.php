@@ -1,10 +1,10 @@
 <?php
 	class Database
 	{
-		private static $dbName = 'nodemcu_rfid_iot_projects' ;
+		private static $dbName = 'u347279731_verano_guzmadb' ;
 		private static $dbHost = 'localhost' ;
-		private static $dbUsername = 'root';  // Default Laragon MySQL username
-		private static $dbUserPassword = '';  // Default Laragon MySQL password (empty)
+		private static $dbUsername = 'u347279731_verano_guzma';  // Default Laragon MySQL username
+		private static $dbUserPassword = 'Project1';  // Default Laragon MySQL password (empty)
 		 
 		private static $cont  = null;
 		 
